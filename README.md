@@ -256,6 +256,7 @@ mv ./bin/pg-inserts /usr/local/bin
 Signature:
 
 ```
+$ pg-inserts -h
 inserts demonstrates simple commands for testing different insert methods in Postgres.
 
 Usage:
